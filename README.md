@@ -14,7 +14,9 @@ Hello! I'm **Wu Tao**, a Master's student at **Northeastern University** special
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tao-wu-maxwin/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://taonasn1.synology.me:1103/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wu.tao2@northeastern.edu)
 
+</div>
 ---
 
 ## 💻 Skills
