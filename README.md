@@ -22,7 +22,7 @@ Hello! I'm **Wu Tao**, a Master's student at **Northeastern University** special
 
 ### **Programming Languages**
 
-- Java, Python, C, C++, Visual Basic, Lua
+- Java, Python, C, C++, JavaScript, Visual Basic, Lua
 
 ### **Frameworks & Tools**
 
