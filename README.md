@@ -6,7 +6,7 @@ Hello! I'm **Wu Tao**, a Master's student at **Northeastern University** special
 
 🎯 *Currently seeking opportunities in software development, IoT engineering, and AI-driven systems.*
 
----
+
 
 ## 📧 Contact Me
 
@@ -17,7 +17,6 @@ Hello! I'm **Wu Tao**, a Master's student at **Northeastern University** special
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wu.tao2@northeastern.edu)
 
 </div>
----
 
 ## 💻 Skills
 
@@ -41,7 +40,7 @@ Hello! I'm **Wu Tao**, a Master's student at **Northeastern University** special
 
 - TensorFlow, PyTorch, VGG-16, ResNet, Bi-LSTM, CNN
 
----
+
 
 ## ✨ Hobbies & Interests
 
@@ -49,6 +48,6 @@ Hello! I'm **Wu Tao**, a Master's student at **Northeastern University** special
 - **Technology:** Exploring new advancements in IoT and AI.
 - **Travel:** Discovering new cultures and places.
 
----
+
 
 Feel free to connect with me for exciting opportunities or collaborations! 🚀
